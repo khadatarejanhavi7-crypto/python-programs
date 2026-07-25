@@ -1,0 +1,10 @@
+name="python is fun"
+# print(name)
+# print(name.upper()
+# print(name.lower())
+# print(name.swapcase())
+# print(len(name))
+# print(name.replace('python','java'))
+# print(name.split())
+# print(name.isnumeric())
+# print(name.isalpha())
